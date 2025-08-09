@@ -21,7 +21,7 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/team/";
+                window.location.href = "/team-members/";
               },
             },{id: "nav-research",
           title: "research",
@@ -37,21 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "dropdown-photography",
-              title: "photography",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/photography/";
-              },
-            },{id: "dropdown-team-photos",
-              title: "team-photos",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/team-photos/";
-              },
-            },{id: "dropdown-teaching",
+        },{id: "dropdown-teaching",
               title: "teaching",
               description: "",
               section: "Dropdown",
@@ -64,6 +50,20 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/blog/";
+              },
+            },{id: "dropdown-photography",
+              title: "photography",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/photography/";
+              },
+            },{id: "dropdown-team-photos",
+              title: "team photos",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/team-photos/";
               },
             },{id: "post-introduction-to-submodularity",
         
