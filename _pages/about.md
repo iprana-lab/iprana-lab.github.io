@@ -38,7 +38,7 @@ My research integrates <span style='color: var(--global-theme-color); font-weigh
 
 - **Sensor placement design** ∙ **Modeling**
 - **State estimation** ∙ **Soft sensor development** 
-- **Process monitoring** ∙ **fault detection and diagnosis**
+- **Process monitoring** ∙ **Fault detection and diagnosis**
 - **Optimization**
 
 <!-- To address these, I use methods including ∙ *Supervised & Unsupervised Machine Learning* ∙ *Optimization* ∙ *Dynamic Mode Decomposition (DMD)* ∙ *Variational Inference* ∙ *Kalman Filtering*.  -->
@@ -71,7 +71,7 @@ While my core expertise is in process systems engineering, I also aim to explore
 ### Opportunities
 I am always open to working with:
 
-- **Motivated students** eager to explore Machine learning and Computational methods  
+- **Motivated students** eager to explore machine learning and computational methods to solve engineering problems
 - **Research collaborators** across disciplines  
 - **Industry partners** seeking data-driven innovation  
 

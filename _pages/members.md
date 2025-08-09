@@ -9,5 +9,5 @@ children:
     permalink: /pi/
   - title: divider
   - title: team members
-    permalink: /team/
+    permalink: /team-members/
 ---
