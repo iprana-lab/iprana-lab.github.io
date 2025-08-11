@@ -75,8 +75,12 @@ I am always open to working with:
 - **Research collaborators** across disciplines  
 - **Industry partners** seeking data-driven innovation  
 
-:email: **Contact:** [omprakash@iitd.ac.in](mailto:omprakash@iitd.ac.in)  
-Room number: II-377, Department of Chemical Engineering. IIT Delhi. Hauz Khas, New Delhi, 110016, India
+---
+
+### Contact Me
+:email: **Email:** [omprakash@iitd.ac.in](mailto:omprakash@iitd.ac.in)  
+:telephone: **Tel:** +91 11 2659 1019   
+:pushpin: **Office:** Room number: II-377, Department of Chemical Engineering. IIT Delhi. Hauz Khas, New Delhi, 110016, India
 
 ---
 <!-- 

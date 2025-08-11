@@ -69,7 +69,7 @@ nav_order:
         Department of Chemical Engineering<br>
         Indian Institute of Technology Delhi<br>
         Hauz Khas, New Delhi - 110016, India<br>
-        <strong>Room:</strong> II-377, <strong>Office phone:</strong> <br>
+        <strong>Room:</strong> II-377 <br><strong>Office phone:</strong> +91 11 2659 1019 <br>
         <strong>Email:</strong> <a href="mailto:omprakash@iitd.ac.in" target="_blank">omprakash@iitd.ac.in</a>
       </p>
     </div>
