@@ -70,8 +70,7 @@ While my core expertise is in process systems engineering, I also aim to explore
 
 ### Opportunities
 I am always open to working with:
-
-- **Motivated students** eager to explore machine learning and computational methods to solve engineering problems
+- **Motivated students** eager to explore AI/ML and computational methods to solve engineering problems
 - **Research collaborators** across disciplines  
 - **Industry partners** seeking data-driven innovation  
 
@@ -80,7 +79,7 @@ I am always open to working with:
 ### Contact Me
 :email: **Email:** [omprakash@iitd.ac.in](mailto:omprakash@iitd.ac.in)  
 :telephone: **Tel:** +91 11 2659 1019   
-:pushpin: **Office:** Room number: II-377, Department of Chemical Engineering. IIT Delhi. Hauz Khas, New Delhi, 110016, India
+:pushpin: **Office:** Block II, Room number: 377, Department of Chemical Engineering. IIT Delhi. Hauz Khas, New Delhi, 110016, India
 
 ---
 <!-- 
