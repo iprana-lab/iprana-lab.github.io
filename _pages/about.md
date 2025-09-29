@@ -24,12 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <div class="container-fluid text-center px-0">
-  {% include figure.liquid loading="eager" path="https://res.cloudinary.com/dlicxapkk/image/upload/w_800,q_auto,f_auto/iitd3_cjvc0a.jpg" 
-  title="Om Prakash" class="img-fluid rounded z-depth-1 mb-2" %}
+  {% include figure.liquid loading="eager" path="https://res.cloudinary.com/dlicxapkk/image/upload/w_800,q_auto,f_auto/home_wallpaper_x7rmsw.png" 
+  title="Om Prakash" class="img-fluid rounded z-depth-0 mb-2" %}
 </div>
-
+---
   
-<!-- My research applies **machine learning** and **advanced computational methods** to solve complex problems in process systems engineering. I work on topics such as sensor placement design, process modeling, estimation, soft sensing, process monitoring, fault detection and diagnosis, using techniques like supervise/unsupervised machine learning, dynamic mode decomposition, variational inference, Kalman filtering, reinforcement learning, and optimization. While rooted in process systems, my work also aims to impact energy systems, smart manufacturing, molecular systems, and healthcare applications.
+<!-- "https://res.cloudinary.com/dlicxapkk/image/upload/w_800,q_auto,f_auto/iitd3_cjvc0a.jpg" 
+My research applies **machine learning** and **advanced computational methods** to solve complex problems in process systems engineering. I work on topics such as sensor placement design, process modeling, estimation, soft sensing, process monitoring, fault detection and diagnosis, using techniques like supervise/unsupervised machine learning, dynamic mode decomposition, variational inference, Kalman filtering, reinforcement learning, and optimization. While rooted in process systems, my work also aims to impact energy systems, smart manufacturing, molecular systems, and healthcare applications.
 
 If you are excited to work or collaborate on such topics, please feel free to reach out to me [(Email: abc@iitd.ac.in)](mailto:abc@iitd.ac.in) -->
 
@@ -69,17 +70,17 @@ While my core expertise is in process systems engineering, I also aim to explore
 {: .block-tip }
 
 ### Opportunities
-I am always open to working with:
+I would be more than happy to work with:
 - **Motivated students** eager to explore AI/ML and computational methods to solve engineering problems
 - **Research collaborators** across disciplines  
-- **Industry partners** seeking data-driven innovation  
+- **Industry partners** seeking data-driven and hybrid innovations
 
 ---
 
 ### Contact Me
 :email: **Email:** [omprakash@iitd.ac.in](mailto:omprakash@iitd.ac.in)  
 :telephone: **Tel:** +91 11 2659 1019   
-:pushpin: **Office:** Block II, Room number: 377, Department of Chemical Engineering. IIT Delhi. Hauz Khas, New Delhi, 110016, India
+:pushpin: **Office:** Office: II - 377, Department of Chemical Engineering. IIT Delhi. Hauz Khas, New Delhi, 110016, India
 
 ---
 <!-- 
