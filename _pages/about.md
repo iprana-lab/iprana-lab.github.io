@@ -80,7 +80,7 @@ I would be more than happy to work with:
 ### Contact Me
 :email: **Email:** [omprakash@iitd.ac.in](mailto:omprakash@iitd.ac.in)  
 :telephone: **Tel:** +91 11 2659 1019   
-:pushpin: **Office:** Office: II - 377, Department of Chemical Engineering. IIT Delhi. Hauz Khas, New Delhi, 110016, India
+:pushpin: **Office:** Block: II - 377, Department of Chemical Engineering. IIT Delhi. Hauz Khas, New Delhi, 110016, India
 
 ---
 <!-- 

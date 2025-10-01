@@ -17,13 +17,14 @@ The following visualization illustrates the role of PSE:
 <!-- Load your custom script -->
 <script src="{{ '/assets/js/force-graph.js' | relative_url }}"></script>
 
-
-> <i class="fa fa-info-circle" aria-hidden="true"></i> Below are some of my works, highlighting areas of interest
-{: .block-tip }
+<i class="fa-solid fa-circle-info"></i> ***Below are some of my works, highlighting areas of interest***
 
 ---
 
-### Graph Neural Network Based Analytics
+<!-- > #### <i class="fa-solid fa-gears"></i> Graph Neural Network Based Analytics
+{: .block-tip } -->
+
+#### <i class="fa-solid fa-gears"></i> **Graph Neural Network Based Analytics**
 Graph Neural Networks (GNNs) provide a powerful framework for process analytics by capturing complex interdependencies among variables that traditional models often overlook. Our research develops graph-based soft sensing methods for quality prediction in nonlinear and dynamic chemical processes. We address challenges such as `learning graph` structures when they are not known a priori and mitigating `non-injective aggregation` issues that can obscure neighborhood information. To improve accuracy and `interpretability`, we integrate temporal dynamics and propose end-to-end frameworks that jointly learn graph structures and model parameters, enabling `robust predictions` in noisy industrial environments.
 <figure style="margin:20px auto; max-width:700px; text-align:center;">
   <img src="https://res.cloudinary.com/dlicxapkk/image/upload/w_850,q_auto,f_auto/gnn_b4bflg.png" 
@@ -37,7 +38,7 @@ Graph Neural Networks (GNNs) provide a powerful framework for process analytics 
 ---
 
 
-### Modeling Dynamical System
+#### <i class="fa-solid fa-gears"></i> **Modeling Dynamical System**
 Dynamic processes in engineering and natural systems often involve complex, high-dimensional interactions that evolve over time. `Data-driven modeling` provides a powerful way to capture these dynamics for monitoring, estimation, control, and optimization. Our research focuses on developing techniques based on `Koopman analysis` and `Dynamic Mode Decomposition (DMD)` to identify both full-order and reduced-order models from process data. We also devise methods for `real-time updates`, enabling models to adapt to evolving process behavior. The updates rely on efficient `Singular Value Decomposition (SVD)` strategies. These approaches are applicable to a wide range of dynamical systems, from chemical processes to environmental and industrial systems, and are particularly suited for large-scale, real-time applications.
 <figure style="margin:20px auto; max-width:850px; text-align:center;">
   <img src="https://res.cloudinary.com/dlicxapkk/image/upload/w_850,q_auto,f_auto/modeling_bzs4gq.png" 
@@ -53,7 +54,7 @@ Dynamic processes in engineering and natural systems often involve complex, high
 
 ---
 
-### Sensor Placement Design (SPD)
+#### <i class="fa-solid fa-gears"></i> **Sensor Placement Design (SPD)**
 <!-- <figure style="float:right; width:450px; max-width:45%; margin:0 0 15px 15px;">
   <img src="https://res.cloudinary.com/dlicxapkk/image/upload/w_800,q_auto,f_auto/blr_odcyvb.png" 
        alt="Sensor Placement Design in water network" 
@@ -82,7 +83,7 @@ In the era of Industry 4.0, sensors generate vast amounts of critical process da
 
 ---
 
-### Process Monitoring and Fault Detection
+#### <i class="fa-solid fa-gears"></i> **Process Monitoring and Fault Detection**
 Fault detection is a critical requirement in industrial operations, where early identification of abnormal conditions ensures safety, reliability, and economic performance. Process data, however, is often noisy and requires `effective preprocessing` that integrates statistical techniques with `domain knowledge`, which is increasingly important not only for `feature engineering` but also for selecting appropriate hyperparameters. At the same time, supervised learning has shown promise; its dependence on large volumes of labeled fault data limits applicability in industrial settings, where such data are scarce. Simpler statistical models, e.g., `Principal Component Analysis (PCA)`, play an important role due to their `interpretability` and ability to capture dominant process trends, making them valuable for real-world monitoring applications.
 <figure style="margin:20px auto; max-width:800px; text-align:center;">
   <img src="https://res.cloudinary.com/dlicxapkk/image/upload/w_850,q_auto,f_auto/fault_ghvhwk.png" 
@@ -92,7 +93,7 @@ Fault detection is a critical requirement in industrial operations, where early 
 
 ---
 
-### Image Processing Based Process Analytics
+#### <i class="fa-solid fa-gears"></i> **Image Processing Based Process Analytics**
 Images offer a non-invasive way to monitor processes, especially in situations where inserting sensors is challenging. From simple `edge-detection methods` like the Sobel filter to advanced `convolutional neural networks (CNNs)`, a range of techniques can be applied to extract meaningful information. 
 <figure style="margin:20px auto; max-width:700px; text-align:center;">
   <img src="https://res.cloudinary.com/dlicxapkk/image/upload/w_850,q_auto,f_auto/image_wtvdnr.png" 
