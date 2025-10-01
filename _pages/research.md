@@ -17,7 +17,7 @@ The following visualization illustrates the role of PSE:
 <!-- Load your custom script -->
 <script src="{{ '/assets/js/force-graph.js' | relative_url }}"></script>
 
-**Below are some of my research topics, highlighting key areas of interest; this list is indicative and not exhaustive.**
+**Below are some of my works, highlighting areas of interest.**
 
 ---
 
