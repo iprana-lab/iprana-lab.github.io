@@ -17,7 +17,9 @@ The following visualization illustrates the role of PSE:
 <!-- Load your custom script -->
 <script src="{{ '/assets/js/force-graph.js' | relative_url }}"></script>
 
-**Below are some of my works, highlighting areas of interest.**
+
+> <i class="fa fa-info-circle" aria-hidden="true"></i> Below are some of my works, highlighting areas of interest
+{: .block-tip }
 
 ---
 
