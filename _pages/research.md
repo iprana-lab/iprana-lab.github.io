@@ -51,29 +51,6 @@ Dynamic processes in engineering and natural systems often involve complex, high
 
 ---
 
-### Process Monitoring and Fault Detection
-Fault detection is a critical requirement in industrial operations, where early identification of abnormal conditions ensures safety, reliability, and economic performance. Process data, however, is often noisy and requires `effective preprocessing` that integrates statistical techniques with `domain knowledge`, which is increasingly important not only for `feature engineering` but also for selecting appropriate hyperparameters. At the same time, supervised learning has shown promise; its dependence on large volumes of labeled fault data limits applicability in industrial settings, where such data are scarce. Simpler statistical models, e.g., `Principal Component Analysis (PCA)`, play an important role due to their `interpretability` and ability to capture dominant process trends, making them valuable for real-world monitoring applications.
-<figure style="margin:20px auto; max-width:800px; text-align:center;">
-  <img src="https://res.cloudinary.com/dlicxapkk/image/upload/w_850,q_auto,f_auto/fault_ghvhwk.png" 
-       alt="Process Monitoring and Fault Detection" 
-       style="width:100%; height:auto; border-radius:6px;">
-</figure>
-
----
-
-### Image Processing Based Process Analytics
-Images offer a non-invasive way to monitor processes, especially in situations where inserting sensors is challenging. From simple `edge-detection methods` like the Sobel filter to advanced `convolutional neural networks (CNNs)`, a range of techniques can be applied to extract meaningful information. 
-<figure style="margin:20px auto; max-width:700px; text-align:center;">
-  <img src="https://res.cloudinary.com/dlicxapkk/image/upload/w_850,q_auto,f_auto/image_wtvdnr.png" 
-       alt="Image Processing" 
-       style="width:100%; height:auto; border-radius:6px;">
-  <figcaption style="font-size:0.9em; margin-top:5px;">
-    Level detection
-  </figcaption>
-</figure>
-
----
-
 ### Sensor Placement Design (SPD)
 <!-- <figure style="float:right; width:450px; max-width:45%; margin:0 0 15px 15px;">
   <img src="https://res.cloudinary.com/dlicxapkk/image/upload/w_800,q_auto,f_auto/blr_odcyvb.png" 
@@ -100,6 +77,29 @@ In the era of Industry 4.0, sensors generate vast amounts of critical process da
 </figure>
 
 <!-- ![A mushroom-head robot drinking bubble tea](https://res.cloudinary.com/dlicxapkk/image/upload/w_800,q_auto,f_auto/blr_odcyvb.png) -->
+
+---
+
+### Process Monitoring and Fault Detection
+Fault detection is a critical requirement in industrial operations, where early identification of abnormal conditions ensures safety, reliability, and economic performance. Process data, however, is often noisy and requires `effective preprocessing` that integrates statistical techniques with `domain knowledge`, which is increasingly important not only for `feature engineering` but also for selecting appropriate hyperparameters. At the same time, supervised learning has shown promise; its dependence on large volumes of labeled fault data limits applicability in industrial settings, where such data are scarce. Simpler statistical models, e.g., `Principal Component Analysis (PCA)`, play an important role due to their `interpretability` and ability to capture dominant process trends, making them valuable for real-world monitoring applications.
+<figure style="margin:20px auto; max-width:800px; text-align:center;">
+  <img src="https://res.cloudinary.com/dlicxapkk/image/upload/w_850,q_auto,f_auto/fault_ghvhwk.png" 
+       alt="Process Monitoring and Fault Detection" 
+       style="width:100%; height:auto; border-radius:6px;">
+</figure>
+
+---
+
+### Image Processing Based Process Analytics
+Images offer a non-invasive way to monitor processes, especially in situations where inserting sensors is challenging. From simple `edge-detection methods` like the Sobel filter to advanced `convolutional neural networks (CNNs)`, a range of techniques can be applied to extract meaningful information. 
+<figure style="margin:20px auto; max-width:700px; text-align:center;">
+  <img src="https://res.cloudinary.com/dlicxapkk/image/upload/w_850,q_auto,f_auto/image_wtvdnr.png" 
+       alt="Image Processing" 
+       style="width:100%; height:auto; border-radius:6px;">
+  <figcaption style="font-size:0.9em; margin-top:5px;">
+    Level detection
+  </figcaption>
+</figure>
 
 ---
 
