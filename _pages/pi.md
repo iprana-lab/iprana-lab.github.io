@@ -41,7 +41,7 @@ nav_order:
 
       <h4>Educational Experience</h4>
       <ul>
-        <li><strong>Ph.D.</strong> Chemical Engineering, IIT Bombay, 2016-2022<br> (Advisor: <a href="https://www.che.iitb.ac.in/faculty/mani-bhushan" target="_blank">Prof. Mani Bhushan</a>)<br>
+        <li><strong>Ph.D.</strong> Chemical Engineering, IIT Bombay, 2016-2022<br> (Advisor: <a href="https://www.che.iitb.ac.in/faculty-page/mani-bhushan" target="_blank">Prof. Mani Bhushan</a>)<br>
         <strong>Thesis:</strong> Sensor placement design using system level measures with applications in fault detection and diagnosis and estimation of variables. </li>
         <li><strong>M.Tech.</strong> Chemical Engineering, IIT Guwahati, 2014-2016</li>
         <li><strong>B.Tech.</strong> Chemical Engineering, RGIPT, Rae Bareli, 2010-2014</li>
