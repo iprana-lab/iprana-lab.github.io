@@ -6,6 +6,8 @@ description:
 nav: true
 nav_order: 2
 ---
+##### **If you are interested in pursuing a Ph.D., please email me with your research interests.**
+Email: [omprakash@iitd.ac.in](mailto:omprakash@iitd.ac.in)
 
 I focus on integrating `machine learning techniques within process systems engineering (PSE)`.
 <!-- PSE encompasses a range of methods, including (i) Modeling/Simulation, (ii) Data Analytics for process monitoring, (iii) Process Design, (iv) Process Synthesis, (v) Optimization, and (vi) Control. These approaches address challenges across various engineering domains: (i) Energy Systems (Sustainability), (ii) Supply Chain Systems (Smart Manufacturing), (iii) Molecular Systems (Novel Materials), and (iv) Biosystems (Effective Healthcare). -->

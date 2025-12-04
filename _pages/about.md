@@ -70,6 +70,8 @@ While my core expertise is in process systems engineering, I also aim to explore
 {: .block-tip }
 
 ### Opportunities
+**If you are interested in pursuing a Ph.D., please email me with your research interests.**
+
 I would be more than happy to work with:
 - **Motivated students** eager to explore AI/ML and computational methods to solve engineering problems
 - **Research collaborators** across disciplines  
