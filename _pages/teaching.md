@@ -11,6 +11,6 @@ pretty_table: true
 |------     |----------|---------------|-----------------------------------|
 |**2025**   | Sem 1    |               |                                   |
 |           | Sem 2    | CHP3101       | Chemical Engineering Laboratory-I |
+|**2026**   | Sem 1    |CLL782 / CHL7204 |  Process Optimization             |
+|           | Sem 2    |               |                                   |
 
-<!-- | 2026 | Sem 1    |               |                                   |
-|      | Sem 2    | CHP3101       | Chemical Engineering Laboratory-I | -->
