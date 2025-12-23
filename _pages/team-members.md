@@ -55,21 +55,21 @@ nav_order:
 
 ### M.Tech Students
 
-- **[Sudeep Meena](linkedin.com)** &nbsp;|&nbsp; *(2025, ongoing)* &nbsp;|&nbsp;
+- **[Sudeep Meena](https://in.linkedin.com/)** &nbsp;|&nbsp; *(2025, ongoing)* &nbsp;|&nbsp;
   – *Predicting fouling in heat exchanger using machine learning*
 
-- **[Rajneesh Kumar](linkedin.com)** &nbsp;|&nbsp; *(2025, ongoing)* &nbsp;|&nbsp;
+- **[Rajneesh Kumar](https://in.linkedin.com/)** &nbsp;|&nbsp; *(2025, ongoing)* &nbsp;|&nbsp;
   – *Detection of Parkinson's Disease*
 
 <hr>
 
 ### B.Tech/Dual Degree Students
 
-- **[Ninad Gawade](linkedin.com)** &nbsp;|&nbsp; *(2025, ongoing)* &nbsp;|&nbsp;
+- **[Ninad Gawade](https://in.linkedin.com/in/ninad-gawade)** &nbsp;|&nbsp; *(2025, ongoing)* &nbsp;|&nbsp;
   – *LLM inspired soft sensor toolbox*
 
-- **[Jagveer Meena](linkedin.com)** &nbsp;|&nbsp; *(2025, ongoing)* &nbsp;|&nbsp;
+- **[Jagveer Meena](https://in.linkedin.com/in/jagveer-meena-8036b3260)** &nbsp;|&nbsp; *(2025, ongoing)* &nbsp;|&nbsp;
   – *LLM based literature review on data driven optimization*
 
-- **[Garv Gupta](linkedin.com)** &nbsp;|&nbsp; *(2025, ongoing)* &nbsp;|&nbsp;
+- **[Garv Gupta](https://in.linkedin.com/in/garv-gupta-810a98369)** &nbsp;|&nbsp; *(2025, ongoing)* &nbsp;|&nbsp;
   – *Digital Twin for large scale water networks*
