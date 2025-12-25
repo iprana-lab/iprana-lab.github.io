@@ -7,7 +7,19 @@ nav: false
 nav_order:
 
 ---
+<style>
+.member-icons i {
+  transition: transform 0.2s ease, filter 0.2s ease;
+  cursor: pointer;
+  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.25));
+}
 
+.member-icons i:hover {
+  transform: translateY(-2px);
+  filter: drop-shadow(0 3px 6px rgba(0,0,0,0.35));
+  color: var(--global-warning-block-text);
+}
+</style>
 
 <!-- PI Section -->
 <div class="row mb-5">
@@ -58,12 +70,14 @@ nav_order:
     {% include figure.liquid loading="eager" path="https://res.cloudinary.com/dlicxapkk/image/upload/w_800,q_auto,f_auto/PXL_20230314_005905155_1_he7dxr.jpg" 
  title="Om Prakash" class="img-fluid rounded z-depth-1 mb-2" %}
     <div>
-      <a href="https://scholar.google.com/citations?user=B0GS6lsAAAAJ" target="_blank">
-        <i class="ai ai-google-scholar fa-3x mr-2"></i>
-      </a>
-      <a href="https://www.linkedin.com/in/om-prakash-0a783291" target="_blank">
-        <i class="fab fa-linkedin fa-3x mr-3"></i>
-      </a>
+      <div class="member-icons mt-2">
+        <a href="https://scholar.google.com/citations?user=B0GS6lsAAAAJ" target="_blank">
+          <i class="ai ai-google-scholar fa-3x mr-2"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/om-prakash-0a783291" target="_blank">
+          <i class="fab fa-linkedin fa-3x mr-3"></i>
+        </a>
+      </div>
       <p>
         <strong>Assistant Professor</strong><br>
         Department of Chemical Engineering<br>

@@ -37,8 +37,12 @@ nav_order:
       style="max-width:120px;"
     %}
     <div class="member-icons mt-2">
-      <a href=""><i class="fab fa-linkedin fa-2x mr-2"></i></a>
-      <a href=""><i class="ai ai-google-scholar fa-2x"></i></a>
+      <a href="" target="_blank">
+        <i class="fab fa-linkedin fa-2x mr-2"></i>
+      </a>
+      <a href="" target="_blank">
+        <i class="ai ai-google-scholar fa-2x"></i>
+      </a>
     </div>
   </div>
 
