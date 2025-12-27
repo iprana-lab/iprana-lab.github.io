@@ -9,8 +9,8 @@ pretty_table: true
 
 | Year      | Semester | Course Number | Course Title                      |
 |------     |----------|---------------|-----------------------------------|
-|**2025**   | Sem 1    |               |                                   |
-|           | Sem 2    | CHP3101       | Chemical Engineering Laboratory-I |
-|**2026**   | Sem 1    |CLL782 / CHL7204 |  Process Optimization             |
-|           | Sem 2    |               |                                   |
+|**2025-26**  | Sem 1    | CHP3101       | Chemical Engineering Laboratory-I |
+|**2025-26**   | Sem 2    |CLL782 / CHL7204 |  Process Optimization             |
+|**2026-27**| Sem 1    |               |                                   |
 
+* *@IITD: Semester 1: Aug to Nov;  Semester 2: Jan to May*
