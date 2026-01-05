@@ -13,4 +13,4 @@ pretty_table: true
 |**2025-26**   | Sem 2    |CLL782 / CHL7204 |  Process Optimization             |
 |**2026-27**| Sem 1    |               |                                   |
 
-* *@IITD: Semester 1: Aug to Nov;  Semester 2: Jan to May*
+* *@IITD: Semester 1: Jul to Nov;  Semester 2: Jan to May*
