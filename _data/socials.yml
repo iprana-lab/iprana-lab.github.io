@@ -20,7 +20,6 @@ github_username: iprana-lab # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: om-prakash-0a783291 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 orcid_id: 0000-0002-8735-608X # your ORCID ID
@@ -30,8 +29,9 @@ orcid_id: 0000-0002-8735-608X # your ORCID ID
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: false # comment this line to hide the RSS icon
+scopus_id: 57200529041
+linkedin_username: om-prakash-0a783291 # your LinkedIn user name
 scholar_userid: B0GS6lsAAAAJ # your Google Scholar ID
-# scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
