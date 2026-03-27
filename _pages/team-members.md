@@ -31,7 +31,7 @@ nav_order:
 ### M.Tech Students
 
 - **[Sudeep Meena](https://in.linkedin.com/)** &nbsp;|&nbsp; *(2025, ongoing)* &nbsp;|&nbsp;
-  – *Predicting fouling in heat exchanger using machine learning*
+  – *Large-scale refinery crude oil scheduling*
 
 - **[Rajneesh Kumar](https://in.linkedin.com/)** &nbsp;|&nbsp; *(2025, ongoing)* &nbsp;|&nbsp;
   – *Detection of Parkinson's Disease*
