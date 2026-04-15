@@ -83,12 +83,10 @@ ninja.data = [{
             window.location.href = "/blog/2021/submodularity/";
           
         },
-      },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+      },{id: "news-organizing-ifac-2026-workshop-on-learning-designing-and-measuring-in-networks",
+          title: 'Organizing IFAC 2026 Workshop on “Learning, Designing and Measuring in Networks” 🎉',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
