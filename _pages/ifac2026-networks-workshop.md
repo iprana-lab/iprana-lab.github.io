@@ -38,7 +38,7 @@ This workshop focuses on the intersection of **learning, measurement, control, a
 - Network design for control and monitoring   
 
 --- -->
-
+<!-- 
 ## 🗓️ Tentative Schedule
 
 | Time            | Topic                                                       | Speaker(s)                     |
@@ -53,6 +53,228 @@ This workshop focuses on the intersection of **learning, measurement, control, a
 | 15:30 – 15:45   | Break                                                       | —                              |
 | 15:45 – 16:45   | **Network design for control**                                  | Prof. Ram                      |
 | 16:45 – 17:00   | Concluding Remarks                                          | —                              |
+
+--- -->
+
+
+<h2>🗓️ Workshop Schedule</h2>
+
+<div class="table-responsive mt-3">
+
+<table style="
+width:100%;
+border-collapse:collapse;
+font-size:15px;
+border:1px solid var(--global-divider-color);
+border-radius:10px;
+overflow:hidden;
+">
+
+<thead>
+<tr style="
+background:var(--global-theme-color);
+color:white;
+border-bottom:2px solid var(--global-divider-color);
+">
+  <th style="padding:12px 14px; text-align:left; width:16%;">
+    Time
+  </th>
+
+  <th style="padding:12px 14px; text-align:left; width:42%;">
+    Topic
+  </th>
+
+  <th style="padding:12px 14px; text-align:left; width:42%;">
+    Speaker(s)
+  </th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr style="border-bottom:1px solid var(--global-divider-color);">
+  <td style="padding:12px 14px; vertical-align:top;">
+    <strong>08:30 – 09:00</strong>
+  </td>
+
+  <td style="padding:12px 14px; vertical-align:top;">
+    <strong>Introduction to Networks:</strong><br>
+    Learning, Measurements & Control
+  </td>
+
+  <td style="padding:12px 14px; vertical-align:top;">
+    Dr. Nirav Pravinbhai Bhatt (IIT Madras, India)<br>
+    Dr. Om Prakash (IIT Delhi, India)<br>
+    Dr. Nabil Magbool Jan (IIT Tirupati, India)
+  </td>
+</tr>
+
+<tr style="border-bottom:1px solid var(--global-divider-color);">
+  <td style="padding:12px 14px; vertical-align:top;">
+    <strong>09:00 – 10:20</strong>
+  </td>
+
+  <td style="padding:12px 14px; vertical-align:top;">
+    <strong>Learning Networks from Data</strong>
+  </td>
+
+  <td style="padding:12px 14px; vertical-align:top;">
+    Dr. Nirav Pravinbhai Bhatt<br>
+    <span style="font-size:14px; opacity:0.8;">
+      IIT Madras, India
+    </span>
+  </td>
+</tr>
+
+<tr style="
+background:rgba(128,128,128,0.08);
+border-bottom:1px solid var(--global-divider-color);
+">
+  <td style="padding:12px 14px;">
+    <strong>10:20 – 10:40</strong>
+  </td>
+
+  <td colspan="2" style="
+  padding:12px 14px;
+  font-style:italic;
+  opacity:0.8;
+  ">
+    IFAC Coffee Break
+  </td>
+</tr>
+
+<tr style="border-bottom:1px solid var(--global-divider-color);">
+  <td style="padding:12px 14px; vertical-align:top;">
+    <strong>10:40 – 12:00</strong>
+  </td>
+
+  <td style="padding:12px 14px; vertical-align:top;">
+    <strong>Sensor Placement in Networks – Fault Diagnosis</strong>
+  </td>
+
+  <td style="padding:12px 14px; vertical-align:top;">
+    Prof. Mani Bhushan<br>
+    <span style="font-size:14px; opacity:0.8;">
+      IIT Bombay, India
+    </span>
+    <br><br>
+
+    Dr. Om Prakash<br>
+    <span style="font-size:14px; opacity:0.8;">
+      IIT Delhi, India
+    </span>
+  </td>
+</tr>
+
+<tr style="
+background:rgba(255,193,7,0.10);
+border-bottom:1px solid var(--global-divider-color);
+">
+  <td style="padding:12px 14px;">
+    <strong>12:00 – 13:30</strong>
+  </td>
+
+  <td colspan="2" style="
+  padding:12px 14px;
+  font-style:italic;
+  ">
+    Lunch Break
+  </td>
+</tr>
+
+<tr style="border-bottom:1px solid var(--global-divider-color);">
+  <td style="padding:12px 14px; vertical-align:top;">
+    <strong>13:30 – 14:30</strong>
+  </td>
+
+  <td style="padding:12px 14px; vertical-align:top;">
+    <strong>Sensor Placement in Networks – Value-based Approaches</strong>
+  </td>
+
+  <td style="padding:12px 14px; vertical-align:top;">
+    Prof. Sridharakumar Narasimhan<br>
+    <span style="font-size:14px; opacity:0.8;">
+      IIT Madras, India
+    </span>
+
+    <br><br>
+
+    Dr. Nabil Magbool Jan<br>
+    <span style="font-size:14px; opacity:0.8;">
+      IIT Tirupati, India
+    </span>
+  </td>
+</tr>
+
+<tr style="border-bottom:1px solid var(--global-divider-color);">
+  <td style="padding:12px 14px; vertical-align:top;">
+    <strong>14:30 – 15:20</strong>
+  </td>
+
+  <td style="padding:12px 14px; vertical-align:top;">
+    <strong>Control in Networks</strong>
+  </td>
+
+  <td style="padding:12px 14px; vertical-align:top;">
+    Prof. Sridharakumar Narasimhan<br>
+    <span style="font-size:14px; opacity:0.8;">
+      IIT Madras, India
+    </span>
+  </td>
+</tr>
+
+<tr style="
+background:rgba(128,128,128,0.08);
+border-bottom:1px solid var(--global-divider-color);
+">
+  <td style="padding:12px 14px;">
+    <strong>15:20 – 15:40</strong>
+  </td>
+
+  <td colspan="2" style="
+  padding:12px 14px;
+  font-style:italic;
+  opacity:0.8;
+  ">
+    IFAC Coffee Break
+  </td>
+</tr>
+
+<tr style="border-bottom:1px solid var(--global-divider-color);">
+  <td style="padding:12px 14px; vertical-align:top;">
+    <strong>15:40 – 16:40</strong>
+  </td>
+
+  <td style="padding:12px 14px; vertical-align:top;">
+    <strong>Network Design for Control</strong>
+  </td>
+
+  <td style="padding:12px 14px; vertical-align:top;">
+    Prof. Ramkrishna Pasumarthy<br>
+    <span style="font-size:14px; opacity:0.8;">
+      IIT Madras, India
+    </span>
+  </td>
+</tr>
+
+<tr>
+  <td style="padding:12px 14px; vertical-align:top;">
+    <strong>16:40 – 17:00</strong>
+  </td>
+
+  <td style="padding:12px 14px; vertical-align:top;">
+    <strong>Concluding Remarks & Discussion</strong>
+  </td>
+
+  <td style="padding:12px 14px; vertical-align:top;">
+    All Speakers
+  </td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
 
 ---
 
