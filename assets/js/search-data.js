@@ -83,8 +83,8 @@ ninja.data = [{
             window.location.href = "/blog/2021/submodularity/";
           
         },
-      },{id: "news-organizing-ifac-2026-workshop-on-learning-designing-and-measuring-in-networks",
-          title: 'Organizing IFAC 2026 Workshop on “Learning, Designing and Measuring in Networks” 🎉',
+      },{id: "news-organizing-ifac-2026-workshop-23-aug-2026-busan-south-korea-on-learning-designing-and-measuring-in-networks",
+          title: 'Organizing IFAC 2026 Workshop (23-Aug-2026, Busan, South Korea) on “Learning, Designing and Measuring...',
           description: "",
           section: "News",},{
         id: 'social-email',
