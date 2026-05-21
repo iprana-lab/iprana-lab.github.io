@@ -7,5 +7,5 @@ related_posts: false
 ---
 
 <a href="/ifac2026-networks-workshop/">
-Organizing IFAC 2026 Workshop on "Learning, Designing and Measuring in Networks" 🎉
+Organizing IFAC 2026 Workshop (23-Aug-2026, Busan, South Korea) on "Learning, Designing and Measuring in Networks" 🎉
 </a>

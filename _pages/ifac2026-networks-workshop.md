@@ -9,14 +9,14 @@ nav_order:
 
 # Learning, Designing and Measuring in Networks
 
-> **📍 23rd IFAC World Congress**, Busan, Korea  
+> **📍 23rd IFAC World Congress**, Busan, South Korea  
 > **📅 Workshop Date:** Sunday, August 23, 2026  
 {: .block-tip }
 ---
 
 ## Overview
 
-Large-scale networked systems such as power grids, water and gas distribution networks, and biological netwroks are governed by physical laws, constrained by limited sensing and actuation, and increasingly supported by data.
+Large-scale networked systems such as power grids, water and gas distribution networks, and biological networks are governed by physical laws, constrained by limited sensing and actuation, and increasingly supported by data.
 
 This workshop focuses on the intersection of **learning, measurement, control, and design in networks**, bringing together tools from **control theory, graph theory, optimization, and machine learning**.
 
