@@ -25,7 +25,7 @@ nav_order:
 <div class="row mb-5">
   <div class="col-sm-8 d-flex align-items-center">
     <div>
-      <h2>Dr. Om Prakash</h2>
+      <h2>Om Prakash</h2>
       {% comment %}
       <p>
         <strong>Assistant Professor</strong><br>
@@ -59,11 +59,11 @@ nav_order:
         <li><strong>B.Tech.</strong> Chemical Engineering, RGIPT, Rae Bareli, 2010-2014</li>
       </ul>
 
-      <h4>Awards</h4>
+      <!-- <h4>Awards</h4>
       <ul>
         <li><strong>R. G. Manudhane Ph.D. Excellence Award</strong> (Aug 2024), Awarded by: Dept. of Chemical Engg., IIT Bombay</li>
         <li>Winner of the west zone of the <strong>Shell.ai hackathon for sustainable and affordable energy (2020)</strong> for solving the Windfarm layout optimization challenge.</li>
-      </ul>
+      </ul> -->
     </div>
   </div>
   <div class="col-sm-4 text-center">

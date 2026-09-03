@@ -26,6 +26,97 @@ nav_order:
 <!-- <h3>PhD Students</h3> -->
 <!-- Will be updated soon... -->
 
+<h3>PhD Students</h3>
+
+<div class="row mb-4">
+  <div class="col-sm-2 text-center">
+    {% include figure.liquid loading="eager"
+      path="https://res.cloudinary.com/dlicxapkk/image/upload/v1754775133/profile_placeholder_moclzk.jpg"
+      title="Devam Hasmukhbhai Patel"
+      class="img-fluid rounded z-depth-1 mb-2"
+      style="max-width:120px;"
+    %}
+    <div class="member-icons mt-2">
+      <a href="" target="_blank">
+        <i class="fab fa-linkedin fa-2x mr-2"></i>
+      </a>
+      <a href="" target="_blank">
+        <i class="ai ai-google-scholar fa-2x"></i>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-sm-10 d-flex align-items-start pt-2">
+    <div>
+      <h4>Devam Hasmukhbhai Patel</h4>
+      <p class="mb-0">
+        <strong>Email:</strong> chz268073@chemical.iitd.ac.in<br>
+        <strong>Research:</strong> Sensor Placement for Monitoring &amp; Pollutant Intervention in Water Networks
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="row mb-4">
+  <div class="col-sm-2 text-center">
+    {% include figure.liquid loading="eager"
+      path="https://res.cloudinary.com/dlicxapkk/image/upload/v1754775133/profile_placeholder_moclzk.jpg"
+      title="Khushboo"
+      class="img-fluid rounded z-depth-1 mb-2"
+      style="max-width:120px;"
+    %}
+    <div class="member-icons mt-2">
+      <a href="" target="_blank">
+        <i class="fab fa-linkedin fa-2x mr-2"></i>
+      </a>
+      <a href="" target="_blank">
+        <i class="ai ai-google-scholar fa-2x"></i>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-sm-10 d-flex align-items-start pt-2">
+    <div>
+      <h4>Khushboo</h4>
+      <p class="mb-0">
+        <strong>Email:</strong> chz268487@chemical.iitd.ac.in<br>
+        <strong>Research:</strong> Sensor Placement Design for Spatial Systems
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="row mb-4">
+  <div class="col-sm-2 text-center">
+    {% include figure.liquid loading="eager"
+      path="https://res.cloudinary.com/dlicxapkk/image/upload/v1754775133/profile_placeholder_moclzk.jpg"
+      title="Raj sheela"
+      class="img-fluid rounded z-depth-1 mb-2"
+      style="max-width:120px;"
+    %}
+    <div class="member-icons mt-2">
+      <a href="" target="_blank">
+        <i class="fab fa-linkedin fa-2x mr-2"></i>
+      </a>
+      <a href="" target="_blank">
+        <i class="ai ai-google-scholar fa-2x"></i>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-sm-10 d-flex align-items-start pt-2">
+    <div>
+      <h4>Raj sheela</h4>
+      <p class="mb-0">
+        <strong>Co-Advisor:</strong> Prof. Hariprasad Kodamana<br>
+        <strong>Email:</strong> chz268074@chemical.iitd.ac.in<br>
+        <strong>Research:</strong> Machine Learning-Driven Retrosynthesis Planning
+      </p>
+    </div>
+  </div>
+</div>
+
+<hr>
 
 
 ### M.Tech Students
